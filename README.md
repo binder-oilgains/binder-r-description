@@ -1,8 +1,8 @@
 # Specifying an R environment by having a DESCRIPTION file
 
-Jupyter+R: [![Binder](http://mybinder.org/badge.svg)](http://beta.mybinder.org/v2/gh/binder-oilgains/binder-r-description/master?filepath=test-library.ipynb)
+Jupyter+R: [![Binder](http://mybinder.org/badge.svg)](http://beta.mybinder.org/v2/gh/binder-oilgains/binder-r-description/main?filepath=test-library.ipynb)
 
-RStudio: [![Binder](http://mybinder.org/badge.svg)](http://beta.mybinder.org/v2/gh/binder-oilgains/binder-r-description/master?urlpath=rstudio)
+RStudio: [![Binder](http://mybinder.org/badge.svg)](http://beta.mybinder.org/v2/gh/binder-oilgains/binder-r-description/main?urlpath=rstudio)
 
 
 Binder supports using R and RStudio, with libraries pinned to a specific
