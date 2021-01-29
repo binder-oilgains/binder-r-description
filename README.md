@@ -5,6 +5,8 @@ Jupyter+R: [![Binder](http://mybinder.org/badge.svg)](http://beta.mybinder.org/v
 RStudio: [![Binder](http://mybinder.org/badge.svg)](http://beta.mybinder.org/v2/gh/binder-oilgains/binder-r-description/main?urlpath=rstudio)
 
 
+Goal is to build a Binder environment from an R package. The package is loaded with `library()` from within a Jupyter notebook.
+
 Binder supports using R and RStudio, with libraries pinned to a specific
 snapshot on [MRAN](https://mran.microsoft.com/documents/rro/reproducibility).
 
